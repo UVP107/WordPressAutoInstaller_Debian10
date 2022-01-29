@@ -140,5 +140,6 @@ echo -e $biru"Merestart bind9"$e
 systemctl restart bind9
 
 echo -e $biru" Instalasi selesai "$e
+echo -e $biru" Berikut adalah informasi domain Anda"$e
 nslookup $IP
 nslookup $domain
