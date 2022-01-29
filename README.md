@@ -17,3 +17,8 @@ chmod a+x uninstaller.sh
 ```
 ./uninstalller.sh
 ```
+If you encounter an error "ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (111)" or your mysql.sock are missing try this :
+
+```
+/etc/init.d/mysqld_safe
+```
