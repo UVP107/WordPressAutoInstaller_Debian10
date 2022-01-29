@@ -9,3 +9,11 @@ chmod a+x install.sh
 ```
 ./install.sh
 ```
+To uninstall you can use :
+
+```
+chmod a+x uninstaller.sh
+```
+```
+./uninstalller.sh
+```
