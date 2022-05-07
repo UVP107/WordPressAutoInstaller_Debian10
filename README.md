@@ -22,4 +22,4 @@ If you encounter an error "ERROR 2002 (HY000): Can't connect to local MySQL serv
 ```
 /etc/init.d/mysqld_safe
 ```
-Tested on Debian 10 8 Debian 11
+Tested on Debian 10 and Debian 11
